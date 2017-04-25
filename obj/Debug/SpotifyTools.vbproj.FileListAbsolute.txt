@@ -1,0 +1,21 @@
+C:\Users\New\AppData\Local\Temporary Projects\SpotifyTools\bin\Debug\SpotifyTools.exe.config
+F:\Code\SpotifyTools\bin\Debug\SpotifyTools.exe.config
+F:\Code\SpotifyTools\bin\Debug\SpotifyTools.exe
+F:\Code\SpotifyTools\bin\Debug\SpotifyTools.pdb
+F:\Code\SpotifyTools\bin\Debug\SpotifyTools.xml
+F:\Code\SpotifyTools\bin\Debug\Newtonsoft.Json.dll
+F:\Code\SpotifyTools\bin\Debug\SpotifyAPI.dll
+F:\Code\SpotifyTools\bin\Debug\Newtonsoft.Json.xml
+F:\Code\SpotifyTools\bin\Debug\SpotifyAPI.xml
+F:\Code\SpotifyTools\obj\Debug\SpotifyTools.vbprojResolveAssemblyReference.cache
+F:\Code\SpotifyTools\obj\Debug\MainWindow.g.vb
+F:\Code\SpotifyTools\obj\Debug\Application.g.vb
+F:\Code\SpotifyTools\obj\Debug\SpotifyTools_MarkupCompile.cache
+F:\Code\SpotifyTools\obj\Debug\SpotifyTools_MarkupCompile.lref
+F:\Code\SpotifyTools\obj\Debug\MainWindow.baml
+F:\Code\SpotifyTools\obj\Debug\SpotifyTools.g.resources
+F:\Code\SpotifyTools\obj\Debug\SpotifyTools.Resources.resources
+F:\Code\SpotifyTools\obj\Debug\SpotifyTools.vbproj.GenerateResource.Cache
+F:\Code\SpotifyTools\obj\Debug\SpotifyTools.exe
+F:\Code\SpotifyTools\obj\Debug\SpotifyTools.xml
+F:\Code\SpotifyTools\obj\Debug\SpotifyTools.pdb
