@@ -19,3 +19,4 @@ F:\Code\SpotifyTools\obj\Debug\SpotifyTools.xml
 F:\Code\SpotifyTools\obj\Debug\SpotifyTools.pdb
 F:\Code\SpotifyTools\obj\Debug\View\MainWindow.g.vb
 F:\Code\SpotifyTools\obj\Debug\View\MainWindow.baml
+F:\Code\SpotifyTools\obj\Debug\GeneratedInternalTypeHelper.g.vb
